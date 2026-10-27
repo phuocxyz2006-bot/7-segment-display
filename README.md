@@ -26,3 +26,4 @@ Dự án điều khiển LED 7 đoạn (Katot chung - Common Cathode) hiển th�
 2. Kết nối Arduino với máy tính qua cổng USB.
 3. Chọn đúng loại Board và cổng COM.
 4. Bấm **Upload** để nạp code.
+<img width="3000" height="2304" alt="circuit_image (1)" src="https://github.com/user-attachments/assets/ad6f70af-07db-44c5-8c87-29c5e6e96e22" />
